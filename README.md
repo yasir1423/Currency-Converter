@@ -1,5 +1,5 @@
 Title:
-Unit Converter
+Currency Converter
 Description: 
 A simple currency convertor that convert between currencies(EUR to USD).
 Technologies Used:
